@@ -1,0 +1,5 @@
+prepared/*.csv filter=lfs diff=lfs merge=lfs -text
+unsw_ton_iot/*.csv filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tflite filter=lfs diff=lfs merge=lfs -text
